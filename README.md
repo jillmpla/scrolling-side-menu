@@ -1,6 +1,6 @@
 # Scrolling Side Menu CSS
 
-A website featuring a scrolling side menu, made with CSS.
+A website design, featuring a scrolling side menu, made with CSS.
 
 ![Preview Image](/preview1.png)
 
