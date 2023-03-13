@@ -11,5 +11,3 @@ Website template, featuring a scrolling side menu, made with HTML and CSS (no Ja
 ![Preview Image](/preview4.png)
 
 ![Preview Image](/preview5.png)
-  
--> [Scrolling Side Menu](https://jillpla.com/scrolling-side-menu/)
